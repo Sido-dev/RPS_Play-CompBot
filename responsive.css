@@ -1,0 +1,362 @@
+@media (min-width: 370px) {
+    .rps img {
+        height: 55px;
+        padding: 23px;
+
+    }
+
+    .rps {
+        margin-left: 4px;
+        border: 8px solid white;
+    }
+
+    .result {
+        font-size: 34px;
+        display: flex;
+        justify-content: center;
+        margin-top: 21px;
+        padding-left: 20px;
+    }
+
+    .rps1 {
+        height: 74px;
+        top: 23px;
+        position: relative;
+    }
+
+    .moves {
+        font-size: 25px;
+        margin-top: -15px;
+        padding-left: 7vw;
+    }
+
+    html {
+        max-width: 90vw;
+        margin: 0px auto;
+        background-color: rgb(115, 218, 46);
+    }
+
+    .score {
+        padding-top: 44px;
+        font-size: 24px;
+        padding-bottom: 19px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .btnn {
+        background-color: green;
+        border-radius: 58px;
+        border: 5px solid aquamarine;
+        padding: 13px 12px;
+        justify-content: center;
+        display: flex;
+        width: 153px;
+        left: 22vw;
+        position: relative;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 31px;
+        font-size: 29px;
+    }
+}
+
+
+
+@media (min-width: 412px) {
+    .rps img {
+        height: 55px;
+        padding: 23px;
+
+    }
+
+    .rps {
+        margin-left: 4px;
+        border: 8px solid white;
+    }
+
+    .result {
+        font-size: 34px;
+        display: flex;
+        justify-content: center;
+        margin-top: 21px;
+        padding-left: 20px;
+    }
+
+    .rps1 {
+        height: 74px;
+        top: 23px;
+        position: relative;
+    }
+
+    .moves {
+        font-size: 25px;
+        margin-top: -15px;
+        padding-left: 7vw;
+    }
+
+    html {
+        max-width: 90vw;
+        margin: 0px auto;
+        background-color: rgb(115, 218, 46);
+    }
+
+    .score {
+        padding-top: 44px;
+        font-size: 24px;
+        padding-bottom: 19px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .btnn {
+        background-color: green;
+        border-radius: 58px;
+        border: 5px solid aquamarine;
+        padding: 13px 12px;
+        justify-content: center;
+        display: flex;
+        width: 153px;
+        left: 22vw;
+        position: relative;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 31px;
+        font-size: 29px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) {
+    .rps img {
+        height: 59px;
+        padding: 23px;
+
+    }
+
+    .rps {
+        margin-left: 12px;
+    }
+
+    .result {
+        font-size: 42px;
+        display: flex;
+        justify-content: center;
+        margin-top: 21px;
+        padding-left: 20px;
+    }
+
+    .rps1 {
+        height: 74px;
+        top: 23px;
+        position: relative;
+    }
+
+    .moves {
+        font-size: 25px;
+        margin-top: -10px;
+        padding-left: 3vw;
+    }
+
+    html {
+        max-width: 90vw;
+        margin: 0px auto;
+        background-color: yellowgreen;
+    }
+
+    .score {
+        padding-top: 44px;
+        font-size: 26px;
+        padding-bottom: 19px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .btnn {
+        background-color: green;
+        border-radius: 58px;
+        border: 5px solid aquamarine;
+        padding: 13px 12px;
+        justify-content: center;
+        display: flex;
+        width: 153px;
+        left: 30vw;
+        position: relative;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 31px;
+        font-size: 29px;
+    }
+
+}
+
+@media (min-width: 776px) {
+
+    .moves {
+        font-size: 25px;
+        margin-top: -9px;
+        padding-left: 21vw;
+
+    }
+}
+
+@media (min-width: 992px) {
+    .rps img {
+        height: 119px;
+        padding: 29px;
+    }
+
+    .rps {
+        margin-left: 12px;
+    }
+
+    .result {
+        font-size: 42px;
+        display: flex;
+        justify-content: center;
+        margin-top: 21px;
+        padding-left: 20px;
+    }
+
+    .rps1 {
+        height: 88px;
+        top: 30px;
+        position: relative;
+    }
+
+    .moves {
+        font-size: 40px;
+        margin-top: -10px;
+        padding-left: 7vw;
+    }
+
+    html {
+        max-width: 85vw;
+        margin: 0px auto;
+        background-color: rgb(32, 199, 143);
+    }
+
+    .score {
+        padding-top: 46px;
+        font-size: 34px;
+        padding-bottom: 23px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .btnn {
+        background-color: green;
+        border-radius: 58px;
+        border: 5px solid aquamarine;
+        padding: 13px 12px;
+        justify-content: center;
+        display: flex;
+        width: 153px;
+        left: 34vw;
+        position: relative;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 31px;
+        font-size: 36px;
+    }
+}
+
+
+@media (min-width: 1400px) {
+
+    .rps {
+        border-radius: 50%;
+        border: 12px solid white;
+        background-color: transparent;
+        margin-left: 24px;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 33px;
+        font-size: 40px;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .rps img {
+        height: 206px;
+        padding: 21px;
+        /* object-fit: cover; */
+    }
+
+    .rps1 {
+        height: 100px;
+        top: 28px;
+        position: relative;
+    }
+
+    .result {
+        font-size: 45px;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .moves {
+        font-size: 34px;
+        margin-top: -10px;
+        padding-left: 3vw;
+      }
+
+    .score {
+        padding-top: 54px;
+        font-size: 36px;
+        padding-bottom: 16px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .resulte {
+        font-weight: bold;
+        font-size: 23px;
+        background-color: green;
+        border: none;
+    }
+
+    .btnn {
+        background-color: green;
+        border-radius: 58px;
+        border: 5px solid aquamarine;
+        padding: 13px 12px;
+        justify-content: center;
+        display: flex;
+        width: 153px;
+        left: 38vw;
+        position: relative;
+    }
+}
